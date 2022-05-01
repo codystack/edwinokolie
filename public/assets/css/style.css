@@ -4618,7 +4618,7 @@ fieldset:disabled .btn {
 .navbar-brand {
     padding-top: .40625rem;
     padding-bottom: .40625rem;
-    margin-right: 4rem;
+    margin-right: 2rem;
     font-size: 1.125rem;
     white-space: nowrap
 }
@@ -15097,7 +15097,7 @@ hr.or::before {
 }
 
 .navbar {
-    padding: 2rem 0
+    padding: 0rem 0
 }
 
 .navbar-sticky {
@@ -15209,7 +15209,7 @@ hr.or::before {
 
 .navbar-brand img {
     width: auto;
-    max-height: 2.5rem
+    max-height: 5rem
 }
 
 @media (max-width: 575.98px) {

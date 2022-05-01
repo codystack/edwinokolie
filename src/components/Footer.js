@@ -10,7 +10,7 @@ function Footer() {
                     <h4>5th Avenue, New York <br />USA 10255</h4>
                     </div>
                     <div className="col-lg-6 text-lg-end">
-                    <span className="h5">+1 (234) 567 890</span>
+                    <span className="h5">08155355099</span>
                     </div>
                 </div>
                 <div className="row mb-8">
